@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="100" height="75" alt="calculadora"/>
+
 # Calculadora
 
 Este proyecto es un sistema para una **Calculadora** que realiza operaciones como suma, resta, multiplicación, división y raíz cuadrada.
