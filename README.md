@@ -29,5 +29,3 @@ Este sistema tiene como finalidad crear una **Calculadora** teniendo las siguien
 [![Video tutorial](https://github.com/elavincho/CalculadoraJavaSwing/blob/master/img/img_video.png)](https://youtube.com/shorts/wlIVViuqcQ0)
 
 
-
-
